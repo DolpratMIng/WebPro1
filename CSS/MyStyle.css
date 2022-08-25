@@ -1,0 +1,36 @@
+body {
+    background-color: pink;
+    font-family: Tahoma;
+  }
+  h1 {
+    color: red;
+  }
+  h2 {
+    color: blue;
+  }
+  p {
+    color: blue;
+    margin: 15px 0px 20px 10px;
+    border: 2px solid red;
+    padding: 8px 0px;
+    background-color: orange;
+  }
+  /* class */
+  .bigtitle {
+    background-color: tomato;
+    color: white;
+    padding: 10px;
+  }
+  /* ID */
+  #promotion {
+    background-color: red;
+    color: white;
+    padding: 10px; /* set the distance of the padding */
+    margin: auto; /* center the text*/
+    margin-top: 20px; /* set the margin at the top */
+    margin-bottom: 30px; /* set the margin at the botton */
+    width: 400px; /* set the width size */
+    border: 5px solid blue; /* set the distance of the border */
+    border-radius: 10px; /* defines the radius of the element's corners. */
+    text-align: center; /* adjust teh alignment */
+  }
